@@ -1,0 +1,1 @@
+source /media/slider/Datos1/nicos/django/django/env/bin/activate
